@@ -165,3 +165,4 @@ datasets/unsupervised_data.csv
 datasets/media
 
 .idea/
+.DS_Store
